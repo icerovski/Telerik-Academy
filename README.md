@@ -1,2 +1,2 @@
 # Telerik-Academy
-Homeworks
+These are my homework files for Telerik-Academy.
